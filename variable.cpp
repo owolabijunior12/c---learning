@@ -4,9 +4,9 @@
     double height = 5.9;
     char grade = 'A';
 
-    std:: cout << "Age " << age <<" year old"<<std::endl;
-    std:: cout << "Height " << height <<" feet"<<std::endl;
-    std:: cout << "Grade " << grade <<std::endl;
+    std:: cout << "Age :" << age <<" year old"<<std::endl;
+    std:: cout << "Height :" << height <<" feet"<<std::endl;
+    std:: cout << "Grade :" << grade <<std::endl;
     return 0;
  }
 // #include <iostream>: This line includes the Input/Output Stream Library, which provides functionality for input and output operations.
