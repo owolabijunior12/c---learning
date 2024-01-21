@@ -1,16 +1,14 @@
-#include <iostream>
-
-int main() {
+ #include <iostream>
+ int main(){
     int age = 25;
     double height = 5.9;
     char grade = 'A';
 
-    std::cout << "Age: " << age << std::endl;
-    std::cout << "Height: " << height << " feet" << std::endl;
-    std::cout << "Grade: " << grade << std::endl;
-
+    std:: cout << "Age " << age <<" year old"<<std::endl;
+    std:: cout << "Height " << height <<" feet"<<std::endl;
+    std:: cout << "Grade " << grade <<std::endl;
     return 0;
-}
+ }
 // #include <iostream>: This line includes the Input/Output Stream Library, which provides functionality for input and output operations.
 // int main(): The main function is the entry point of a C++ program.
 // std::cout: This is the standard output stream used to display output.

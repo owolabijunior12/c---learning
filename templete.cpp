@@ -16,4 +16,4 @@ int main() {
 }
 
 // template <typename T>: Template declaration.
-// T add(T a, T b): Generic functio
+// T add(T a, T b): Generic function
